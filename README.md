@@ -1,3 +1,4 @@
+![0YJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxrii&theme=great-gatsby&show_icons=true) <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hxrii&show_icons=true&layout=compact&theme=great-gatsby" alt="Most Used Languages" width="500px">
 <a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
 
 ## Profile
