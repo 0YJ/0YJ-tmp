@@ -8,7 +8,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=thenuka99&layout=compact&theme=algolia" alt="thenuka99" />
  </a>
 </p>
-<a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
+<a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0YJ&show_icons=true&theme=radical&card_width=320" />
