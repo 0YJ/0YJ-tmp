@@ -77,6 +77,14 @@
 <code><img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1PKsfJXnxOqnTRiIZ8VcdJDYBXD-qZnnpw&usqp=CAU"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
+<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/04ab2a37-3dd8-4df8-9f37-e46bc1031a38"></code>
+<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/4f15bf61-1071-4ffa-b903-3f335aceec98"></code>
+<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/1220ecd3-d364-4888-b4b8-6fe917f4e466"></code>
+<code><img height="40" width="40" src="https://github.com/0YJ/0YJ/assets/38809415/de2e1163-e11d-44b8-a0b6-998228a72445"></code>
+<code><img height="40" width="40" src=""></code>
+
+
+
 
 
 <br/>
