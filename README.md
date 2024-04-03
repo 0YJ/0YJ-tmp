@@ -280,7 +280,7 @@ HTML                     9 repos             ██░░░░░░░░░�
     <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/he.svg"/></code>
   </a>
 
-  <a href="https://www.codechef.com/users/0YJ" target="_blank">
+  <a href="https://www.codechef.com/users/yjzh" target="_blank">
     <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/cc.svg"/></code>
   </a>
   
