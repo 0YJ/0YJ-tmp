@@ -1,7 +1,7 @@
-name: Half-year calendar
+name: Example
 uses: lowlighter/metrics@latest
 with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.YJ }}
-  base: ""
-  plugin_isocalendar: yes
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
