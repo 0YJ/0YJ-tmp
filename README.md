@@ -242,7 +242,7 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 <p align="center">
   <img width="75%" src="https://github.com/0YJ/0YJ/blob/master/metrics.svg"/>
-  <img src="https://github.com/0YJ/0YJ/blob/master/metrics.detailed.svg" width="75%"/>
+  <img src="metrics.plugin.isocalendar.svg" width="75%"/>
 </p>
 
 <h1>
