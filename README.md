@@ -191,7 +191,7 @@ Sunday       65 commits     ██░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: EU/Berlin
 
 💬 Programming Languages: 
 Other                    60 hrs 5 mins       ██████████████████████░░░   91.43% 
