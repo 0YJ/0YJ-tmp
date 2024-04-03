@@ -233,11 +233,6 @@ HTML                     9 repos             ██░░░░░░░░░�
  Last Updated on 03/04/2024 02:54:40 UTC
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@YJ/277aac58-e452-4134-a8d0-c5ae399be5ed.svg" />
-  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@0YJ/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p>
-
 #
 
 <p align="center">
