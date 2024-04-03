@@ -226,7 +226,7 @@ HTML                     9 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@0YJ/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@YJ/6f85529c-8081-41f2-a5ec-ecd7e21b8147.svg"/>
   <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@0YJ/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
 </p>
 
