@@ -86,8 +86,6 @@
 
 
 
-
-
 <br/>
 
 #
@@ -106,7 +104,8 @@
 </details>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=0YJ&theme=react-dark&hide_border=true&area=true)
+![0YJ's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0YJ&theme=react-dark&hide_border=true&area=true)
+
 
 ![3D Profile](https://github.com/0YJ/0YJ/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
