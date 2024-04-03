@@ -241,7 +241,7 @@ HTML                     9 repos             ██░░░░░░░░░�
 </p>
 
 <p align="center">
-  <img width="75%" src="https://github.com/0YJ/0YJ/blob/master/metrics.svg"/>
+  <img width="75%" src="metrics.plugin.achievements.compact.svg"/>
   <img src="metrics.plugin.isocalendar.svg" width="75%"/>
 </p>
 
