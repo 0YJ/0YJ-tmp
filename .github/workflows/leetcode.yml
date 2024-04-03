@@ -1,4 +1,4 @@
-name: With worldmap
+name: LeetCode
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -16,11 +16,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.stargazers.worldmap.svg
-          token: ${{ secrets.YJ }}
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
           base: ""
-          plugin_stargazers: yes
-          plugin_stargazers_charts: no
-          plugin_stargazers_worldmap: yes
-          plugin_stargazers_worldmap_token: ${{ secrets.GOOGLE_MAP_TOKEN }}
-          plugin_stargazers_worldmap_sample: 200
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
