@@ -105,7 +105,7 @@
 <br/>
 
 ![0YJ's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=0YJ&theme=react-dark&hide_border=true&area=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0YJ&show_icons=true)
 
 ![3D Profile](https://github.com/0YJ/0YJ/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
