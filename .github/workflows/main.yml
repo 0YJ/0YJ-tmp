@@ -1,8 +1,7 @@
-name: Full-year calendar
+name: Half-year calendar
 uses: lowlighter/metrics@latest
 with:
-  filename: metrics.plugin.isocalendar.fullyear.svg
-  token: ${{ secrets.METRICS_TOKEN }}
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.YJ }}
   base: ""
   plugin_isocalendar: yes
-  plugin_isocalendar_duration: full-year
