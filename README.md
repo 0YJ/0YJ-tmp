@@ -271,7 +271,7 @@ HTML                     9 repos             ██░░░░░░░░░�
     <code><img height="60" width="60" src="https://github.com/0YJ/0YJ/blob/master/SVG/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/0YJ">
-    <code><img src="https://github.com/0YJ/0YJ/blob/master/SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
+    <code><img src="https://github.com/0YJ/0YJ/blob/master/SVG/dev.svg" alt="YJ's DEV Profile" height="62" width="62"></code>
   </a>     
 </p>
 <br/>
