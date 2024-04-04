@@ -16,7 +16,7 @@
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **Computer Graphics, Machine Learning, AGI.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/0YJ/0YJ/issues/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Sh𝚎/Her/Hers/J.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Think outside the box, hack the difficulty, and share the knowledge: *Hacker Spirit.***
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Think outside the box, hack the difficulties, and share the knowledge: *Hacker Spirit.***
 
 <br/>
 <br/>
