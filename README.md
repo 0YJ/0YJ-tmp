@@ -21,7 +21,6 @@
 <br/>
 <br/>
 
-
 <p align="center">
   <!-- <img src="https://gpvc.arturio.dev/0YJ" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  --> 
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=0YJ&style=flat&color=brightgreen"> •   
