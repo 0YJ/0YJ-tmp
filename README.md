@@ -18,7 +18,6 @@
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **Sh𝚎/Her/Hers/J.**
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **Think outside the box, hack the difficulty, and share the knowledge: *Hacker Spirit.***
 
-
 <br/>
 <br/>
 
