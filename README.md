@@ -29,7 +29,7 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/0YJ?label=Followers&style=social"> •
   <img src="https://img.shields.io/github/stars/0YJ?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
   <a href="https://github.com/sponsors/0YJ"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-  <a href="https://0YJ.github.io"><img src="https://img.shields.io/badge/0yj.github.io-Data%20Nerd-green?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge">
+  <a href="https://0YJ.github.io"><img src="https://img.shields.io/badge/0yj.github.io-Hacker%20Spirit-pink?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge">
 </p>
 <!-- <p align="center">
   <code>
